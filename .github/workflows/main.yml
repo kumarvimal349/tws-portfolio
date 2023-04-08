@@ -1,4 +1,5 @@
 name: Portfolio Deployment
+echo ${aws-region}
 
 on:
   push:
